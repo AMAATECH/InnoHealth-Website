@@ -1,0 +1,149 @@
+{
+  "common": {
+    "home": "Home",
+    "aboutUs": "About Us",
+    "services": "Services",
+    "whyInnoHealth": "Why InnoHealth",
+    "contactUs": "Contact Us",
+    "learnMore": "Learn More",
+    "learnMoreAboutUs": "Learn More About Us",
+    "ourServices": "Our Services",
+    "viewAllServices": "View All Services",
+    "getInTouch": "Get in Touch",
+    "sendMessage": "Send us a Message",
+    "name": "Name",
+    "email": "Email",
+    "subject": "Subject",
+    "message": "Message",
+    "sendMessageButton": "Send Message",
+    "required": "*",
+    "phone": "Phone",
+    "contact": "Contact",
+    "quickLinks": "Quick Links",
+    "allRightsReserved": "All rights reserved.",
+    "copyright": "© {year} InnoHealth Solutions & Consulting. All rights reserved."
+  },
+  "metadata": {
+    "homeTitle": "Home | InnoHealth Solutions & Consulting",
+    "homeDescription": "Health research and regulatory consulting organization dedicated to supporting evidence generation, regulatory preparedness, and high-quality research execution.",
+    "aboutTitle": "About Us | InnoHealth Solutions & Consulting",
+    "aboutDescription": "Learn about InnoHealth Solutions & Consulting, a health research and regulatory consulting organization dedicated to supporting evidence generation, regulatory preparedness, and high-quality research execution.",
+    "servicesTitle": "Services | InnoHealth Solutions & Consulting",
+    "servicesDescription": "Our services include regulatory consulting, protocol development, clinical trial management, training & capacity building, medical writing, and digital & eClinical consulting.",
+    "whyInnoHealthTitle": "Why InnoHealth | InnoHealth Solutions & Consulting",
+    "whyInnoHealthDescription": "InnoHealth delivers evidence-driven research and regulatory consulting with a strong focus on SFDA and U.S. FDA requirements, providing practical, compliant, and implementation-ready support.",
+    "contactTitle": "Contact Us | InnoHealth Solutions & Consulting",
+    "contactDescription": "Get in touch with InnoHealth Solutions & Consulting for health research and regulatory consulting services.",
+    "siteTitle": "InnoHealth Solutions & Consulting",
+    "siteDescription": "Health research and regulatory consulting organization dedicated to supporting evidence generation, regulatory preparedness, and high-quality research execution."
+  },
+  "home": {
+    "hero": {
+      "tagline": "Health research and regulatory consulting organization dedicated to supporting evidence generation, regulatory preparedness, and high-quality research execution.",
+      "ourServicesButton": "Our Services",
+      "getInTouchButton": "Get in Touch"
+    },
+    "about": {
+      "title": "About InnoHealth",
+      "description1": "InnoHealth – Solutions & Consulting is a health research and regulatory consulting organization dedicated to supporting evidence generation, regulatory preparedness, and high-quality research execution. We work across research, clinical, regulatory, and digital domains to assist organizations in navigating complex local and international regulatory environments.",
+      "description2": "Our work emphasizes scientific rigor, regulatory alignment, and practical implementation, supporting organizations operating within the Kingdom of Saudi Arabia and across global markets."
+    },
+    "services": {
+      "title": "Our Services",
+      "subtitle": "Comprehensive regulatory and research consulting services to support your organization's success"
+    },
+    "whyInnoHealth": {
+      "title": "Why InnoHealth",
+      "description": "InnoHealth delivers evidence-driven research and regulatory consulting with a strong focus on SFDA and U.S. FDA requirements, providing practical, compliant, and implementation-ready support across the research and clinical development lifecycle."
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "aboutInnoHealth": {
+      "title": "About InnoHealth",
+      "description1": "InnoHealth – Solutions & Consulting is a health research and regulatory consulting organization dedicated to supporting evidence generation, regulatory preparedness, and high-quality research execution. We work across research, clinical, regulatory, and digital domains to assist organizations in navigating complex local and international regulatory environments.",
+      "description2": "Our work emphasizes scientific rigor, regulatory alignment, and practical implementation, supporting organizations operating within the Kingdom of Saudi Arabia and across global markets."
+    },
+    "ourFocus": {
+      "title": "Our Focus",
+      "items": [
+        "Supporting evidence generation, regulatory preparedness, and high-quality research execution",
+        "Working across research, clinical, regulatory, and digital domains",
+        "Assisting organizations in navigating complex local and international regulatory environments",
+        "Emphasizing scientific rigor, regulatory alignment, and practical implementation",
+        "Supporting organizations operating within the Kingdom of Saudi Arabia and across global markets"
+      ]
+    }
+  },
+  "services": {
+    "title": "Our Services",
+    "regulatoryConsulting": {
+      "title": "Regulatory Consulting",
+      "description": [
+        "InnoHealth provides regulatory consulting and strategic support to organizations navigating national and international regulatory pathways. Our services include regulatory strategy development, gap assessments, and preparation support for regulatory submissions to the Saudi Food and Drug Authority (SFDA) and the U.S. Food and Drug Administration (FDA), as well as other relevant regulatory bodies where applicable.",
+        "We assist with the preparation, review, and organization of regulatory documentation to support research-related and development activities, ensuring alignment with applicable regulatory requirements, guidance documents, and best practices."
+      ]
+    },
+    "protocolDevelopment": {
+      "title": "Protocol Development",
+      "description": [
+        "We support the development of high-quality research and clinical study protocols designed to meet scientific, ethical, and regulatory expectations. Our services include study design, methodology development, endpoint definition, and documentation readiness, ensuring protocols are suitable for review and approval under local and international regulatory frameworks."
+      ]
+    },
+    "clinicalTrialManagement": {
+      "title": "Clinical Trial Management",
+      "description": [
+        "InnoHealth provides clinical trial management consulting and operational support focused on planning, coordination, oversight, and quality assurance. We support study start-up activities, documentation management, monitoring frameworks, and compliance-focused trial execution in alignment with internationally accepted standards and applicable regulatory requirements."
+      ]
+    },
+    "trainingCapacityBuilding": {
+      "title": "Training & Capacity Building",
+      "description": [
+        "We deliver training and capacity-building programs for organizations, research teams, and professionals. Training areas include clinical research operations, regulatory pathways, Good Clinical Practice (GCP), and submission preparedness, aligned with local and international regulatory standards and expectations."
+      ]
+    },
+    "medicalWriting": {
+      "title": "Medical Writing",
+      "description": [
+        "Our medical writing services support the development of clear, accurate, and compliant scientific and regulatory documents, including study protocols, clinical study reports, regulatory summaries, and submission-ready documentation.",
+        "All writing services adhere to recognized scientific principles and applicable regulatory standards."
+      ]
+    },
+    "digitalEclinicalConsulting": {
+      "title": "Digital & eClinical Consulting",
+      "description": [
+        "We provide consulting support for digital health and eClinical solutions that underpin clinical research, data collection, and regulatory submissions. Our services include guidance on electronic data capture (EDC), digital workflows, remote and hybrid study models, and data governance, with attention to data integrity, traceability, and compliance with applicable regulatory requirements."
+      ]
+    }
+  },
+  "whyInnoHealth": {
+    "title": "Why InnoHealth",
+    "description": "InnoHealth delivers evidence-driven research and regulatory consulting with a strong focus on SFDA and U.S. FDA requirements, providing practical, compliant, and implementation-ready support across the research and clinical development lifecycle."
+  },
+  "contact": {
+    "title": "Contact Us",
+    "getInTouch": {
+      "title": "Get in Touch",
+      "description": "We would be happy to discuss how InnoHealth can support your organization's research and regulatory needs. Please reach out to us using the contact form or the information below."
+    },
+    "form": {
+      "nameRequired": "Name is required",
+      "emailRequired": "Email is required",
+      "emailInvalid": "Please enter a valid email address",
+      "subjectRequired": "Subject is required",
+      "messageRequired": "Message is required",
+      "successMessage": "Thank you for your message! We will get back to you soon."
+    },
+    "email": "info@innohealth.com",
+    "phone": "+966 12 345 6789"
+  },
+  "disclaimer": {
+    "title": "Regulatory & Medical Disclaimer",
+    "text1": "The information provided on this website is for informational purposes only and does not constitute medical advice, diagnosis, or treatment.",
+    "text2": "InnoHealth does not provide direct healthcare services to patients. All services offered are consulting, advisory, research, and regulatory support services only, conducted in accordance with applicable laws, regulations, and local and international standards."
+  },
+  "footer": {
+    "companyDescription": "Health research and regulatory consulting organization dedicated to supporting evidence generation, regulatory preparedness, and high-quality research execution."
+  }
+}
+
