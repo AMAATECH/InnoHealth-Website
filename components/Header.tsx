@@ -32,11 +32,11 @@ export default function Header() {
           {/* Logo */}
           <Link href="/" className="flex items-center focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-secondary group">
             <Image
-              src="/innohealth-logo.jpeg"
+              src="/FavIcon.png"
               alt="InnoHealth Solutions & Consulting Logo"
-              width={200}
-              height={56}
-              className="h-14 w-auto object-contain transition-transform group-hover:scale-105"
+              width={64}
+              height={64}
+              className="h-14 w-14 object-contain transition-transform group-hover:scale-105"
               priority
             />
           </Link>

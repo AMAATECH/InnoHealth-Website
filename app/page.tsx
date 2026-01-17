@@ -97,9 +97,9 @@ export default function Home() {
                 <Image
                   src="/innohealth-logo.jpeg"
                   alt="InnoHealth Solutions & Consulting Logo"
-                  width={450}
-                  height={180}
-                  className="h-36 md:h-44 lg:h-52 w-auto object-contain drop-shadow-lg hover:drop-shadow-2xl transition-all duration-300 hover:scale-[1.02]"
+                  width={600}
+                  height={240}
+                  className="h-48 md:h-56 lg:h-64 w-auto object-contain drop-shadow-lg hover:drop-shadow-2xl transition-all duration-300 hover:scale-[1.02]"
                   priority
                 />
               </div>
