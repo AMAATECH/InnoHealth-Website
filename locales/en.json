@@ -29,9 +29,9 @@
     "aboutTitle": "About Us | InnoHealth Solutions & Consulting",
     "aboutDescription": "Learn about InnoHealth Solutions & Consulting, a health research and regulatory consulting organization dedicated to supporting evidence generation, regulatory preparedness, and high-quality research execution.",
     "servicesTitle": "Services | InnoHealth Solutions & Consulting",
-    "servicesDescription": "Our services include regulatory consulting, protocol development, clinical trial management, training & capacity building, medical writing, and digital & eClinical consulting.",
+    "servicesDescription": "Our services include regulatory consulting, protocols development, training & capacity building, scientific writing, and digital systems solutions.",
     "whyInnoHealthTitle": "Why InnoHealth | InnoHealth Solutions & Consulting",
-    "whyInnoHealthDescription": "InnoHealth delivers evidence-driven research and regulatory consulting with a strong focus on SFDA and U.S. FDA requirements, providing practical, compliant, and implementation-ready support.",
+    "whyInnoHealthDescription": "InnoHealth delivers evidence-driven research and regulatory consulting with a strong focus on SFDA and U.S. FDA requirements, providing practical, compliant, and implementation-ready support across the research and clinical development lifecycle.",
     "contactTitle": "Contact Us | InnoHealth Solutions & Consulting",
     "contactDescription": "Get in touch with InnoHealth Solutions & Consulting for health research and regulatory consulting services.",
     "siteTitle": "InnoHealth Solutions & Consulting",
@@ -85,15 +85,9 @@
       ]
     },
     "protocolDevelopment": {
-      "title": "Protocol Development",
+      "title": "Protocols Development",
       "description": [
         "We support the development of high-quality research and clinical study protocols designed to meet scientific, ethical, and regulatory expectations. Our services include study design, methodology development, endpoint definition, and documentation readiness, ensuring protocols are suitable for review and approval under local and international regulatory frameworks."
-      ]
-    },
-    "clinicalTrialManagement": {
-      "title": "Clinical Trial Management",
-      "description": [
-        "InnoHealth provides clinical trial management consulting and operational support focused on planning, coordination, oversight, and quality assurance. We support study start-up activities, documentation management, monitoring frameworks, and compliance-focused trial execution in alignment with internationally accepted standards and applicable regulatory requirements."
       ]
     },
     "trainingCapacityBuilding": {
@@ -103,16 +97,16 @@
       ]
     },
     "medicalWriting": {
-      "title": "Medical Writing",
+      "title": "Scientific Writing",
       "description": [
-        "Our medical writing services support the development of clear, accurate, and compliant scientific and regulatory documents, including study protocols, clinical study reports, regulatory summaries, and submission-ready documentation.",
+        "Our scientific writing services support the development of clear, accurate, and compliant scientific and regulatory documents, including study protocols, clinical study reports, regulatory summaries, and submission-ready documentation.",
         "All writing services adhere to recognized scientific principles and applicable regulatory standards."
       ]
     },
     "digitalEclinicalConsulting": {
-      "title": "Digital & eClinical Consulting",
+      "title": "Digital Systems Solutions",
       "description": [
-        "We provide consulting support for digital health and eClinical solutions that underpin clinical research, data collection, and regulatory submissions. Our services include guidance on electronic data capture (EDC), digital workflows, remote and hybrid study models, and data governance, with attention to data integrity, traceability, and compliance with applicable regulatory requirements."
+        "We provide consulting support for digital solutions that underpin clinical research stages, data collection, and management. Our services include guidance on electronic data capture (EDC), digital workflows, remote and hybrid study models, and data governance, with attention to data integrity, traceability, and compliance with applicable regulatory requirements."
       ]
     }
   },

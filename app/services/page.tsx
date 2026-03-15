@@ -22,13 +22,6 @@ export default function Services() {
       ],
     },
     {
-      id: 'clinical-trial-management',
-      title: t('services.clinicalTrialManagement.title'),
-      description: [
-        t('services.clinicalTrialManagement.description.0'),
-      ],
-    },
-    {
       id: 'training-capacity-building',
       title: t('services.trainingCapacityBuilding.title'),
       description: [
